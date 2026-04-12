@@ -19,3 +19,4 @@ Analyze transaction patterns and identify fraud risks.
 - CASE statements
 - Window functions
 - Data filtering & joins
+- CTEs
