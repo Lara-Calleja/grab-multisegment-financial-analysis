@@ -52,6 +52,8 @@ This dashboard presents a comprehensive view of:
 
 ### 🔹 Fraud & Transaction Insights
 - Transaction volume by type
+- WoW Volume Growth %
+- Busiest Transaction Hours
 - Fraud occurrence vs system detection
 - Identification of major detection gaps
 
@@ -78,7 +80,7 @@ This dashboard presents a comprehensive view of:
 
 ## 📁 Files Included
 
-- `dashboard.pbix` — Power BI dashboard file
+- `Grab.pbix` — Power BI dashboard file
 - `images/` — Exported dashboard screenshots for preview
 
 ---
