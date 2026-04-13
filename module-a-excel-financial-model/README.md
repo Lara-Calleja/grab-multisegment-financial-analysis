@@ -58,7 +58,7 @@ To build a structured financial model analyzing Grab Holdings’ multi-segment r
 
 ## 📁 Files Included
 
-- `grab_revenue&model.xlsx` — Financial model with calculations and structured data
+- [Financial model with calculations and structured data](grab_revenue&model.xlsx)
 
 ---
 
