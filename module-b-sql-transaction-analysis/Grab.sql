@@ -1,5 +1,5 @@
 COPY paysim
-FROM 'D:\DataAnalytics\Portfolio\Grab\ModuleB\archive(2)\PS_20174392719_1491204439457_log.csv'
+FROM '/Path/file.csv'
 WITH (FORMAT CSV, HEADER true);
 SELECT * FROM paysim;
  --query 1
