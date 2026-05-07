@@ -1,11 +1,11 @@
-# 📙 Module C — Power BI Executive Dashboard
+# Module C — Power BI Executive Dashboard
 
-## 📌 Objective
+## Objective
 To design an executive-level dashboard that consolidates financial performance, segment analysis, and fraud insights into a single, decision-ready interface.
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 This dashboard presents a comprehensive view of:
 
@@ -16,7 +16,7 @@ This dashboard presents a comprehensive view of:
 
 ---
 
-## 🧠 Approach
+## Approach
 
 ### 1. Data Integration
 - Combined outputs from:
@@ -38,7 +38,7 @@ This dashboard presents a comprehensive view of:
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 ### 🔹 Financial Performance
 - Total revenue and YoY growth
@@ -59,7 +59,7 @@ This dashboard presents a comprehensive view of:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Revenue grew significantly, driven primarily by Deliveries
 - Mobility remains the most profitable segment
@@ -68,7 +68,7 @@ This dashboard presents a comprehensive view of:
 
 ---
 
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 
 - Power BI dashboard development
 - Data modeling and relationships
@@ -78,14 +78,14 @@ This dashboard presents a comprehensive view of:
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `Grab.pbix` — Power BI dashboard file
 - `images/` — Exported dashboard screenshots for preview
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
 This dashboard translates complex financial and operational data into clear, actionable insights for decision-makers, highlighting both growth opportunities and critical risk areas.
 
