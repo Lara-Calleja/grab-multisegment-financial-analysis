@@ -1,11 +1,11 @@
-# 📘 Module A — Excel Financial Modeling
+# Module A — Excel Financial Modeling
 
-## 📌 Objective
+## Objective
 To build a structured financial model analyzing Grab Holdings’ multi-segment revenue performance, growth trends, and profitability.
 
 ---
 
-## 🧾 Dataset
+## Dataset
 - Grab Holdings' publicly available investor reports
 - Segments analyzed:
   - Deliveries
@@ -14,7 +14,7 @@ To build a structured financial model analyzing Grab Holdings’ multi-segment r
 
 ---
 
-## 🧠 Approach
+## Approach
 
 ### 1. Data Structuring
 - Organized raw financial data into a clean tabular format
@@ -37,7 +37,7 @@ To build a structured financial model analyzing Grab Holdings’ multi-segment r
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Total revenue showed strong upward growth across all segments
 - **Deliveries** contributed the largest share of total revenue
@@ -46,7 +46,7 @@ To build a structured financial model analyzing Grab Holdings’ multi-segment r
 
 ---
 
-## 🛠 Skills Demonstrated
+## Skills Demonstrated
 
 - Financial modeling in Excel
 - Data cleaning and structuring
@@ -56,13 +56,13 @@ To build a structured financial model analyzing Grab Holdings’ multi-segment r
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - [Financial model with calculations and structured data](grab_revenue&model.xlsx)
 
 ---
 
-## 🚀 Outcome
+## Outcome
 
 This module establishes a foundational understanding of Grab’s financial performance and segment dynamics, which informs deeper transaction-level and risk analysis in subsequent modules.
 
